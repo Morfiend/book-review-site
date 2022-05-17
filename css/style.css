@@ -1,0 +1,29 @@
+header, footer {
+    background-color: aquamarine;
+    border: darkorange;
+    border-style: dashed;
+}
+
+main {
+    background-color: coral;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color: orangered;
+}
+
+ul {
+    list-style: none;
+}
+
+a:hover {
+    color: coral;
+}
+
+.title {
+    font-style: italic;
+}

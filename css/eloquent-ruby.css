@@ -1,0 +1,7 @@
+.reviews {
+    background-color: lightgray;
+}
+
+.reviews blockquote {
+    line-height: 150%;
+}
